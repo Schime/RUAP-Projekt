@@ -6,7 +6,7 @@ namespace lv1_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Marin Simundic");
+            Console.WriteLine("Marin Simundic2540254");
         }
     }
 }
